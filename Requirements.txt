@@ -1,0 +1,12 @@
+Libraries:
+numpy
+tensorflow
+keras
+cv2
+streamlit
+stream_drawable_canvas
+
+Environment:
+ANACONDA : I created a separate virtual environment named "tensorflow" for the project
+Vscode
+Windows-64bit
